@@ -10,6 +10,14 @@ class DetailsPage extends StatefulWidget {
 class _DetailsPageState extends State<DetailsPage> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Details"),
+        backgroundColor: Colors.blueGrey[600],
+      ),
+      body: ListView(
+        children: [Text("Details Explanation")],
+      ),
+    );
   }
 }
