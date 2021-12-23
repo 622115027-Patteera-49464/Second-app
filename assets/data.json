@@ -2,16 +2,19 @@
     {
         "title": "What is a computer?",
         "subtitle": "A computer is an electronic device that manipulates information, or data.",
-        "image_url": "https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593336_960_720.jpg"
+        "image_url": "https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593336_960_720.jpg",
+        "detail": "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks. A computer system is a \"complete\" computer that includes the hardware, operating system (main software), and peripheral equipment needed and used for \"full\" operation. This term may also refer to a group of computers that are linked and function together, such as a computer network or computer cluster."
     },
     {
         "title": "What is Flutter?",
         "subtitle": "Flutter is a free and open-source mobile UI framework created by Google.",
-        "image_url": "https://cdn.pixabay.com/photo/2015/12/27/05/48/turntable-1109588_960_720.jpg"
+        "image_url": "https://cdn.pixabay.com/photo/2015/12/27/05/48/turntable-1109588_960_720.jpg",
+        "detail": "Flutter is a free and open-source mobile UI framework created by Google and released in May 2017. In a few words, it allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android)."
     },
     {
         "title": "What is Dart?",
         "subtitle": "Dart is the programming language used to code Flutter apps.",
-        "image_url": "https://cdn.pixabay.com/photo/2016/11/29/11/39/computer-1869236_960_720.jpg"
+        "image_url": "https://cdn.pixabay.com/photo/2016/11/29/11/39/computer-1869236_960_720.jpg",
+        "detail": "Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications."
     }
 ]
